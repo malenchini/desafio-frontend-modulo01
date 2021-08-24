@@ -1,0 +1,80 @@
+.div--entre-em-contato {
+    width: 1110px;
+    height: 258px;
+
+    justify-content: space-between;
+
+    margin-left: 165px;
+    margin-bottom: 48px;
+    
+}
+
+.div--dados-contato { 
+    padding-top: 47px;
+
+    border-top: 1px solid rgba(51, 50, 61, 0.15);  
+
+    width: 1110px;
+    
+
+    justify-content: space-between;
+
+    margin-left: 165px;
+    margin-bottom: 189px;
+}
+
+label {
+    margin-top: 24px;
+
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 30px;
+
+    color: #33323D;
+    opacity: 0.8;
+    mix-blend-mode: normal;
+
+    display: block;
+}
+
+input, textarea {
+    all: unset;
+
+    color: #33323D;
+    background: #D7D7D7;
+    mix-blend-mode: normal;  
+
+    width: 635px;
+    
+
+    padding: 5px 20px;
+    margin-bottom: 8px;
+}
+
+input { 
+  width: 635px;
+  height: 43px;
+
+  margin-bottom: 24px;
+  padding: 2px 20px;
+}
+
+input:focus{
+   border: 2px solid rgba(51, 50, 61, 1);
+
+}
+
+.div--introducao-contato {
+    width: 699px;
+    height: 355px;
+}
+
+.div--introducao-redes img {
+    margin-left: 15px;
+    margin-top: 54px;
+    
+}
+
+textarea {
+    overflow-wrap: break-word;
+}

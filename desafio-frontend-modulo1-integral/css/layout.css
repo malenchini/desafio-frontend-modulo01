@@ -1,0 +1,24 @@
+.display-flex{
+    display: flex;
+}
+.flex-direction-collum-reverse {
+    flex-direction: column-reverse;
+}
+.flex-direction-collum{
+    flex-direction: column;
+    
+}
+.flex-direction-row{
+    flex-direction: row;
+}
+.align-items-center{
+    align-items: center;
+    
+}
+.justify-content-center{
+    justify-content: center;
+}
+.bloco {
+    width: 1015px;
+    height: 500px;
+}

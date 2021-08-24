@@ -1,0 +1,27 @@
+.public-sans {
+    font-family: 'Public Sans', sans-serif;
+}
+.ibarra-Real{
+    font-family: 'Ibarra Real Nova', serif;
+}
+.green {
+    color: #5FB4A2;
+}
+.black {
+    color: #33323D;
+}
+.white {
+    color: white;
+}
+.fonte-weigth-normal{
+    font-weight: normal;
+}
+.fonte-style-bold {
+    font-weight: bold;
+}
+.text-decoration-none{
+    text-decoration: none;
+}
+.fonte12px {
+    font-size: 12px;
+}

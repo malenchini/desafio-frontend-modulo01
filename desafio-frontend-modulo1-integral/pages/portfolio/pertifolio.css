@@ -1,0 +1,29 @@
+
+body {
+    color: #33323D;
+}
+.div--mae img {
+    width: 540px;
+    height: 500px;
+}
+.div--manage, .div--bookmark, .div--insure, .div--fylo {
+    width: 350px;
+    height: 500px;
+
+    padding: 103px 0px;
+
+     border-top: 1px solid rgba(51, 50, 61, 0.15);
+    border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+}
+
+.div--portifolio1, .div--portifolio2, .div--portifolio3, .div--portifolio4 {
+    justify-content: space-between;
+
+    margin-left: 150px;
+    margin-bottom: 80px;
+    
+   
+}
+.div--manage h2, .div--bookmark h2, .div--insure h2, .div--fylo h2 {
+    margin-bottom: 28px;
+}

@@ -1,0 +1,208 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+    padding: 64px 0px 0px 0px;
+  
+    background: #FAFAFA; 
+    
+    animation-name: opacidade;  
+    animation-duration: 1s;   
+    
+}
+
+h1, h2, h3{
+    color: #33323D;
+}
+
+h1 {
+    margin-left: 27px;
+
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 50px;
+    letter-spacing: -0.446429px;
+
+}
+
+h2{   
+    font-size: 40px;
+    line-height: 42px;
+    letter-spacing: -0.357143px;    
+
+}
+
+h3{
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 36px;
+    letter-spacing: -0.285714px;
+
+}
+
+
+.p1 { 
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+
+    color: #33323D;
+}
+
+.p2 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 30px;
+
+    color: #33323D;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+    margin-bottom: 95px;
+    
+}
+
+.header a{
+    text-decoration: none;
+    margin-left: 43px;
+   
+}
+
+.homeheader {    
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+   
+}
+
+span {
+    background-color: #33323D;  
+
+    width: 1440px;
+    height: 80px;
+    
+    justify-content: space-around;
+}
+
+.span a {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-left: 48px;
+    
+}
+
+.div--span-botao img {
+    width: 61px;
+    height: 32px;
+}
+
+.div--redes-sociais a {
+    margin-left: 15px;
+}
+
+.div--interessado {
+    width: 1110px;
+    height: 84px;
+
+    margin: 150px 0px 150px 165px;   
+        
+    justify-content: space-between;   
+}
+
+.img--abertura {
+    width: 1110px;
+    height: 500px;
+
+    margin-left: 165px;
+}
+
+.div--mae-portifolio {
+    margin-left: 165px;
+    margin-top: 115px;
+}
+
+.h3--previws {
+    margin-top: 40px;
+    margin-bottom: 28px;
+}
+
+.img--projeto-1 {
+
+    width: 635px;
+    height: 400px;
+}
+
+.img--projeto-2 {
+    width: 635px;
+    height: 400px;
+}
+
+.div--introducao {
+    width: 350px;
+    height: 498px;
+
+    border-top: 1px solid rgba(51, 50, 61, 0.15);
+    border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+
+    margin-right: 125px;
+    padding: 48px 0px;
+}
+
+.div--introducao p{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.div--projeto {
+    width: 635px;
+    height: 1192px;
+}
+
+.p--introducao {
+    color: #5FB4A2;
+    font-weight: 700;
+}
+
+.div--projeto h3 {
+    margin-bottom: 28px;
+}
+
+.div--carrossel  {
+    width: 1110px;
+    height: 132px;
+    
+    border-top: 1px solid rgba(51, 50, 61, 0.15);
+    border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+
+    margin-left: 165px;
+    justify-content: space-between;
+   
+}
+
+.img--carrosel {
+    width: 8px;
+    height: 16px;
+
+    margin-right: 32px;
+    margin-left: 32px;
+}

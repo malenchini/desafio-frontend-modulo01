@@ -1,0 +1,65 @@
+.div--abertura {   
+    width: 1110px;
+    height: 600px;
+
+    background-image: url("../../assets/home/image-homepage-hero.jpg") ;
+    background-position: center;
+    background-size: cover; 
+
+    flex-direction: column-reverse;
+
+    align-items: flex-start;
+    margin-left: 165px;
+    
+}
+
+.div--ola {   
+    width: 445px;
+    height: 357px;
+
+    padding: 25px 28px 0px 0px;
+
+    background-color: white;
+
+    justify-content: space-between;
+}
+
+.div--sobre-mim {
+    margin-left: 165px;
+    margin-top: 149px;
+   
+}
+
+.div--sobre-mim img {
+    width: 579px;
+    height: 600px;
+}
+
+.div--sobre-mim h2 {
+    margin-top: 51px;
+    margin-bottom: 28px;
+}
+.div--sobre-mim-descricao { 
+    font-size: 16px;
+    line-height: 30px;
+
+    color: #33323D;
+
+    mix-blend-mode: normal;
+
+    opacity: 0.8;  
+}
+
+.div--sobre-mim-descricao {
+    justify-content: space-between;
+
+    width: 430px;
+    height: 601px;      
+
+    padding-bottom: 46px;
+    margin-left: 140px;
+    
+    border-top: 1px solid rgba(51, 50, 61, 0.15);
+    border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+}
+

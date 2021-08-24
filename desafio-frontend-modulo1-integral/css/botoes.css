@@ -1,0 +1,236 @@
+.--botao-sobre-mim {
+    width: 200px;
+    height: 48px;
+    background: rgba(32, 58, 76, 1);
+    align-items: center;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+   
+}
+
+
+.--botao-sobre-mim:hover {
+    background-color: rgba(95, 180, 162, 1);
+    
+  
+}
+.--botao-sobre-mim img {
+   padding: 17px 17px;
+
+    background: rgba(22, 40, 51, 0.1);
+   
+    margin-right: 20px;  
+}
+
+a.--botao-sobre-mim {
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 12px;  
+
+    letter-spacing: 2px;
+     
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+.sobre-mim a {
+    letter-spacing: 2px;
+
+    text-transform: uppercase;
+
+
+}
+.--botao-ir-para-portifolio {
+    width: 200px;
+    height: 48px;  
+
+    padding: 17px 0px;
+
+    border: 1px solid #33323D;  
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+    text-decoration: none;
+   
+    transition: all 0.5s ease;    
+    animation: scaleout 0.5s;
+    
+}
+
+.--botao-ir-para-portifolio:hover {
+    background-color: #33323D;
+    color: white;
+
+    animation: scalein 0.5s;
+    animation-fill-mode: forwards;
+}
+
+a.--botao-ir-para-portifolio{    
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    
+    color: #33323D;
+
+    align-self: center;
+    justify-content: center;
+
+   
+    padding-left: 24px;
+    margin-top: 24px;
+}
+
+.botao-contato {
+    width: 168px;
+    height: 48px;
+
+    padding: 17px 50px;
+
+    border: 1px solid #33323D; 
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); 
+
+    text-decoration: none;   
+    
+    transition: all 0.5s ease;    
+    animation: scaleout 0.5s;
+}
+.botao-contato:hover {
+    background-color: #33323D;
+    color: white;
+
+    animation: scalein 0.5s;
+    animation-fill-mode: forwards;
+}
+
+
+a.botao-contato {   
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #33323D;
+
+    align-self: center;
+    justify-content: center;
+}
+.--botao-ver-projeto {
+    width: 175px;
+    height: 48px;
+
+    padding: 17px 30px 17px 35px;
+    border: 1px solid #33323D;  
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+    text-decoration: none;
+
+    transition: all 0.5s ease;    
+    animation: scaleout 0.5s;
+    
+}
+
+.--botao-ver-projeto:hover {
+    background-color: #33323D;
+    color: white;
+
+    animation: scalein 0.5s;
+    animation-fill-mode: forwards;
+}
+
+a.--botao-ver-projeto {   
+    margin-top: 20px;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+
+    text-transform: uppercase;
+    color: #33323D;
+  
+    justify-content: center;
+}
+.botao--visitar {
+    width: 175px;
+    height: 48px;
+
+    padding: 17px 0px;
+    border: 1px solid #33323D;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+    text-decoration: none;
+  
+    
+    color: #33323D; 
+
+    justify-content: center;
+    align-items: center;
+
+    transition: all 0.5s ease;    
+    animation: scaleout 0.5s;
+    
+}
+
+.botao--visitar:hover {
+    background-color: #33323D;
+    color: white;
+
+    animation: scalein 0.5s;
+    animation-fill-mode: forwards;
+}
+a.botao--visiar {   
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #33323D;    
+   
+}
+.p--botao-left {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 36px;
+    letter-spacing: -0.285714px;
+
+    color: #33323D;
+
+}
+.p--botao-left-2{
+    font-size: 16px;
+    line-height: 30px;
+
+    color: #33323D;
+
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+.botao-carrosel {
+    text-decoration: none;
+}
+.botao--enviar {    
+    display: block;
+    
+    width: 162px;
+    height: 48px;
+
+    padding: 17px 19px;
+
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-family: 'Public Sans', sans-serif;
+
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    color: #FFFFFF;    
+    background-color: rgba(32, 58, 76, 1);
+
+    cursor: pointer;
+}
+.botao--enviar:hover {
+    background-color: rgba(95, 180, 162, 1);
+
+    animation-fill-mode: forwards;
+}
